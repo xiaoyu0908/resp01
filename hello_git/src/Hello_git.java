@@ -13,6 +13,10 @@ public class Hello_git {
         System.out.println("hello git");
         System.out.println("hheklkghUI");
         System.out.println("我是小时");
+        System.out.println("我是小时");
+        System.out.println("我是小时");
+        System.out.println("我是小时");
+        System.out.println("我是小时");
 
     }
 }
