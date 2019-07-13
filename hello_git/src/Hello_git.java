@@ -12,11 +12,7 @@ public class Hello_git {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hheklkghUI");
-        System.out.println("我是小雨我提交发了的");
-        System.out.println("我是小雨我提交发了的");
-        System.out.println("我是小雨我提交发了的");
-        System.out.println("我是小雨我提交发了的");
-        System.out.println("我是小雨我提交发了的");
+        System.out.println("我是小时");
 
     }
 }
