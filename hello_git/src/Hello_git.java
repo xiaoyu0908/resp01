@@ -57,5 +57,6 @@ public class Hello_git {
         System.out.println("我是小鱼");
         System.out.println("我是小鱼");
         System.out.println("我是小鱼1111");
+        System.out.println("wo shig ciaoyueder ");
     }
 }
