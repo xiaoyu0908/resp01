@@ -17,6 +17,9 @@ public class Hello_git {
         System.out.println("我是小时");
         System.out.println("我是小时");
         System.out.println("我是小时");
+        System.out.println("我是小时");
+        System.out.println("我是小时");
+        System.out.println("我是小时");
 
     }
 }
