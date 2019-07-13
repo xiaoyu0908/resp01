@@ -30,6 +30,11 @@ public class Hello_git {
         System.out.println("diyici");
         System.out.println("diyici");
         System.out.println("diyici");
+        System.out.println("diyici");
+        System.out.println("diyici");
+        System.out.println("diyici");
+        System.out.println("diyici");
+        System.out.println("diyici");
 
     }
 }
